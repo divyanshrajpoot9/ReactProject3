@@ -1,0 +1,22 @@
+.header1{
+    padding: 0px 1.5rem;
+    font-weight: 600;
+    color: purple;
+}
+
+.header2{
+   padding: 0px 1.5rem;
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+
+.header2 a{
+    text-align: center;
+    width: 100%;
+    background-color: brown;
+    color: white;
+    font-weight: 600;
+    padding: 1rem 0rem;
+    
+}

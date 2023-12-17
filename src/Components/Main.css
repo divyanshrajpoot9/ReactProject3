@@ -1,0 +1,42 @@
+.img{
+    margin-bottom: 1.25rem;
+    margin-top: 1.25rem;
+    height: 75vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('https://raw.githubusercontent.com/Mayankkatheriya/Gym-app-react/main/src/Components/Main/istockphoto-164654160-612x612.jpg');
+}
+
+.section1{
+    color: white;
+    /* height: 18.75rem; */
+    padding: 3.125rem 12.5rem;
+    background-color: brown;
+    text-align: center;
+}
+
+.section1 h1{
+   margin: 0.625rem 0rem;
+}
+
+.section2{
+    /* height: 22.75rem; */
+    padding: 3.125rem 6.5rem;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 30px
+}
+
+.btn{
+    border: 2px solid white;
+    padding: 0.8rem 2rem;
+    color: white;
+
+    margin: 0.625rem 0.625rem;
+    background-color: brown;
+}
+
+.pl{
+    margin-bottom: 1.25rem;
+}
